@@ -10,3 +10,5 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Imports: 
     ggplot2
+URL: https://github.com/kaiasheean/kaiapackage
+BugReports: https://github.com/kaiasheean/kaiapackage/issues
